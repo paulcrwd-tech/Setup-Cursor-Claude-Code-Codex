@@ -1,7 +1,7 @@
 # Cursor + Claude Code + Codex Setup
 
 ## Tools Installed
-- Cursor IDE (version [___])
+- Cursor IDE (version 3.9.16)
 - Claude Code extension for Cursor
 - Codex extension for Cursor
 
