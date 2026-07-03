@@ -1,9 +1,7 @@
-# Setup-Cursor-Claude-Code-Codex
-
 # Cursor + Claude Code + Codex Setup
 
 ## Tools Installed
-- Cursor IDE (version 3.9.16)
+- Cursor IDE (version [___])
 - Claude Code extension for Cursor
 - Codex extension for Cursor
 
@@ -17,5 +15,4 @@
 7. Committed and pushed the changes to GitHub
 
 ## Issues Encountered
-"Claude Code login failed on the first attempt — resolved by signing out and logging back in to my Anthropic account."
-"The Codex extension didn't appear in the Extensions search — fixed by updating Cursor to the latest version first"
+- Got a 'fatal: not a git repository' error because I initially downloaded the repo as a ZIP instead of cloning it — fixed by using `git clone` instead
